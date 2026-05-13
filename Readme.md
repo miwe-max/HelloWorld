@@ -6,7 +6,7 @@ As a software engineer building my personal portfolio, I started with a simple b
 
 This software is a python console app that prints a personalized greeting celebrating the Super Eagles of Nigeria.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=buoaSdLxNVw)
 
 # Development Environment
 
